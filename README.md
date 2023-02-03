@@ -15,7 +15,10 @@
 ## Change Log
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. 
+
+02/02/2023 9:00PM overhaul to weather data, connection of frontend and backend of the server, more detailed weather is grabbed and properly formatted instead of being pulled from hardcoded data.
+-->
 
 ## Credit and Collaborations
 
